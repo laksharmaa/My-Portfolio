@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/laksharmaa/My-Portfolio/static/css/main.372dc58a.css",
-    "main.js": "/laksharmaa/My-Portfolio/static/js/main.9f6dd8ae.js",
-    "static/media/hero-dark.jpg": "/laksharmaa/My-Portfolio/static/media/hero-dark.37f2556d620821979e99.jpg",
-    "static/media/hero-light.jpg": "/laksharmaa/My-Portfolio/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
-    "service-worker.js": "/laksharmaa/My-Portfolio/service-worker.js",
-    "static/media/GH.svg": "/laksharmaa/My-Portfolio/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
-    "static/media/defaultNavLogo.svg": "/laksharmaa/My-Portfolio/static/media/defaultNavLogo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/logo.svg": "/laksharmaa/My-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/laksharmaa/My-Portfolio/index.html",
-    "main.372dc58a.css.map": "/laksharmaa/My-Portfolio/static/css/main.372dc58a.css.map",
-    "main.9f6dd8ae.js.map": "/laksharmaa/My-Portfolio/static/js/main.9f6dd8ae.js.map"
+    "main.css": "/My-Portfolio/static/css/main.372dc58a.css",
+    "main.js": "/My-Portfolio/static/js/main.9a64cdc7.js",
+    "static/media/hero-dark.jpg": "/My-Portfolio/static/media/hero-dark.37f2556d620821979e99.jpg",
+    "static/media/hero-light.jpg": "/My-Portfolio/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
+    "service-worker.js": "/My-Portfolio/service-worker.js",
+    "static/media/GH.svg": "/My-Portfolio/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
+    "static/media/defaultNavLogo.svg": "/My-Portfolio/static/media/defaultNavLogo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.svg": "/My-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.372dc58a.css.map": "/My-Portfolio/static/css/main.372dc58a.css.map",
+    "main.9a64cdc7.js.map": "/My-Portfolio/static/js/main.9a64cdc7.js.map"
   },
   "entrypoints": [
     "static/css/main.372dc58a.css",
-    "static/js/main.9f6dd8ae.js"
+    "static/js/main.9a64cdc7.js"
   ]
 }
