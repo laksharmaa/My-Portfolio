@@ -15,7 +15,7 @@ import Logo from "./images/logo.svg";
  **************************************************************
   Add your GitHub username (string - "YourUsername") below.
 */
-export const githubUsername = "Your GitHub username here";
+export const githubUsername = "laksharmaa";
 
 // Navbar Logo image
 export const navLogo = null;
@@ -35,7 +35,7 @@ export { HeroDark as Dark };
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "I enjoy learning about technology and helping others use it to improve their lives and be more productive. I built this site with React, React Bootstrap, Redux, and the GitHub REST API.";
+  "I am a Full Stack Developer with a passion of learning new technologies and building scalable Cloud Native applications. My goal is to work on challenging projects and deliver high quality software solutions.";
 
 /* Skills
  ************************************************************** 
@@ -43,49 +43,51 @@ export const moreInfo =
 */
 export const skillData = [
   {
-    id: 1,
-    skill: <Icon icon="mdi:language-html5" className="display-4" />,
-    name: "HTML5",
+    id: 1,  // Ensure this id is unique in the array
+    skill: <Icon icon="mdi:aws" className="display-4" />,
+    name: "AWS",
   },
+  
   {
-    id: 2,
-    skill: <Icon icon="ion:logo-css3" className="display-4" />,
-    name: "CSS3",
+    id: 2,  // Ensure this id is unique in the array
+    skill: <Icon icon="skill-icons:expressjs-light" className="display-4" />,
+    name: "Express",
   },
   {
     id: 3,
+    skill: <Icon icon="mdi:react" className="display-4" />,
+    name: "React",
+  }, 
+  {
+    id: 4,  // Ensure this id is unique in the array
+    skill: <Icon icon="tabler:brand-cpp" className="display-4" />,
+    name: "OOP",
+  },
+  
+  {
+    id: 5,  // Ensure this id is unique in the array
+    skill: <Icon icon="lineicons:python" className="display-4" />,
+    name: "Python",
+  },
+  {
+    id: 6,
     skill: <Icon icon="fa6-brands:js" className="display-4" />,
     name: "JavaScript",
   },
   {
-    id: 4,
-    skill: <Icon icon="ri:bootstrap-fill" className="display-4" />,
-    name: "BootStrap",
+    id: 7,  // Ensure this id is unique in the array
+    skill: <Icon icon="tabler:cloud-computing" className="display-4" />,
+    name: "Microservices",
   },
   {
-    id: 5,
-    skill: <Icon icon="mdi:react" className="display-4" />,
-    name: "React",
-  },
-  {
-    id: 6,
-    skill: <Icon icon="file-icons:styledcomponents" className="display-4" />,
-    name: "Styled Components",
-  },
-  {
-    id: 7,
-    skill: <Icon icon="akar-icons:redux-fill" className="display-4" />,
-    name: "Redux",
-  },
-  {
-    id: 8,
-    skill: <Icon icon="bi:git" className="display-4" />,
-    name: "Git",
+    id: 8,  // Ensure this id is unique in the array
+    skill: <Icon icon="mdi:docker" className="display-4" />,
+    name: "Docker",
   },
   {
     id: 9,
-    skill: <Icon icon="fa6-brands:square-github" className="display-4" />,
-    name: "GitHub",
+    skill: <Icon icon="bi:git" className="display-4" />,
+    name: "Git",
   },
 ];
 
@@ -111,7 +113,7 @@ export const projectCardImages = [
   Add your formspree endpoint below.
   https://formspree.io/
 */
-export const formspreeUrl = "https://formspree.io/f/YourEndpoint";
+export const formspreeUrl = "https://formspree.io/f/xqakkado";
 
 // Footer icons theme (light or dark)
 export const footerTheme = "dark";
